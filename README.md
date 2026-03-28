@@ -4,19 +4,16 @@ This project explores how funding flows through the Indian startup ecosystem. Us
 
 Where is the money going and how is it evolving
 
----
-
-## The Story Behind the Data
-
 Startup funding is not evenly distributed. Some industries attract consistent investment, while others see occasional spikes. Certain cities emerge as dominant hubs, concentrating both capital and startup activity.
+
+<img width="733" height="434" alt="image" src="https://github.com/user-attachments/assets/b7eac67e-06dd-4cfa-a039-346b64019015" />
+
 
 This dashboard uncovers these patterns by breaking the data into three key perspectives
 
 * **Time** to understand how funding has grown or fluctuated
 * **Categories** to identify which industries and investment types dominate
 * **Geography** to reveal where startup activity is concentrated
-
----
 
 ## What the Dashboard Shows
 
@@ -56,7 +53,6 @@ To ensure accurate insights, the dataset was cleaned and structured
 * Date fields were transformed to enable time based analysis
 * Text fields were cleaned to avoid duplicate categories
 
----
 
 ## Tools Used
 
@@ -73,7 +69,6 @@ To ensure accurate insights, the dataset was cleaned and structured
 * Investment activity varies across time, indicating cycles of growth
 * Different investment types reflect varying stages of startup maturity
 
----
 
 ## How to Use
 
